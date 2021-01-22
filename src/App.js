@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { MenuItem, FormControl, Select, Card, CardContent } from "@material-ui/core";
 import InfoBox from './InfoBox';
-import Map from './Map';
+import Mapa from './Map';
 import './App.css';
 import Table from "./Table";
 import { sortData } from "./util";
@@ -55,8 +55,6 @@ function App() {
     })
   };
 
-  console.log("COUNTRY INFO >>>>", countryInfo);
-
   return (
     <div className="app">
       <div className="app_left">
@@ -80,7 +78,7 @@ function App() {
         <InfoBox title="Mortes" cases={countryInfo.todayDeaths} total={countryInfo.deaths} />
       </div>
 
-      <Map />
+      <Mapa />
       </div>
       <Card className="app_right">
         <CardContent>

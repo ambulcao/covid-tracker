@@ -1,5 +1,7 @@
 # COVID Tracker
 
+## Projeto criado pela equipe PAPA React
+
 ## Scripts disponíveis
 
 No diretório do projeto, você pode executar:
