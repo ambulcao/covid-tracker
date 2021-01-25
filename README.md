@@ -2,6 +2,12 @@
 
 ## Projeto criado pela equipe PAPA React
 
+## Projeto 
+
+(imagem1)
+(imagem2)
+(imagem3)
+
 ## Scripts disponíveis
 
 No diretório do projeto, você pode executar:
