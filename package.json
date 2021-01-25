@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^12.1.10",
     "chart.js": "^2.9.4",
     "date-fns": "^2.16.1",
+    "firebase-tools": "^9.2.2",
     "leaflet": "^1.7.1",
     "npm": "^6.14.11",
     "numeral": "^2.0.6",
