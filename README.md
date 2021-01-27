@@ -4,9 +4,11 @@
 
 ## Projeto 
 
-(imagem1)
-(imagem2)
-(imagem3)
+<img alt="Main Screen" src="assets/main-screen.png" height="400px" />
+
+<img alt="Main Screen" src="assets/main-screen.png" height="400px" />
+
+<img alt="Main Screen" src="assets/main-screen.png" height="400px" />
 
 ## Scripts disponíveis
 
