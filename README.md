@@ -4,11 +4,11 @@
 
 ## Projeto 
 
-<img alt="https://covid-tracker-git-main.ambulcao.vercel.app/" src="/src/assets/CTScreen1.png" height="400px" />
+<img alt="Covid-Tracker" target="https://covid-tracker-git-main.ambulcao.vercel.app/" src="/src/assets/CTScreen1.png" height="400px" />
 
-<img alt="https://covid-tracker-git-main.ambulcao.vercel.app/" src="/src/assets/CTScreen2.png" height="400px" />
+<img alt="Covid-Tracker" target="https://covid-tracker-git-main.ambulcao.vercel.app/" src="/src/assets/CTScreen2.png" height="400px" />
 
-<img alt="https://covid-tracker-git-main.ambulcao.vercel.app/" src="/src/assets/CTResponsivo.png" height="400px" />
+<img alt="Covid-Tracker" target="https://covid-tracker-git-main.ambulcao.vercel.app/" src="/src/assets/CTResponsivo.png" height="400px" />
 
 ## Scripts disponíveis
 
